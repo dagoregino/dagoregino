@@ -1,4 +1,4 @@
-# ¡Hola! Soy Dagoberto Regino 
+# ¡Hi! I am Dagoberto Regino 
 
 An advanced Electronic Engineering student, hardware developer, and tech leader specializing in **Embedded Systems, firmware development in C/C++, and PCB Design**. 
 
